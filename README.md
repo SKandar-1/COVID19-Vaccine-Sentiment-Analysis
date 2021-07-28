@@ -1,2 +1,5 @@
-# COVID19-Vaccine-Sentiment-Analysis-
-A sentiment analysis study on tweets related to COVID19 Vaccine
+# COVID19 Vaccine Sentiment Analysis
+
+Abstract:
+
+As the delta variant of COVID19 spreads rapidly throughout the world, countries are in a race to vaccinate people sooner than the virus can spread. While in some countries the vaccines are in short supply, in other countries some people are reluctant to take the vaccine for various reasons. To understand public sentiment about COVID19 vaccines, it is worthwhile to study tweets for sentiment analysis since twitter is one of the prominent social media platforms where people share their opinions. In this study tweets about COVID19 vaccines since November 2020 shows 37% neutral, 47% positive, and 16% negative sentiments. Word Cloud of the positive tweets show the words ‘safe’, ‘effective’, ‘good’ whereas that of the negative tweets show the words ‘side effect’, ‘risk’, ‘concern’. Presumably, people with positive sentiment are more optimistic about the benefit of the vaccine whereas people with negative sentiments are concerned about side effects of the vaccine.
