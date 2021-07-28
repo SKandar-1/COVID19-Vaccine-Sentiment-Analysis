@@ -16,6 +16,11 @@ Subjectivity and polarity was plotted in a scatter plot (Figure 1) using matplot
 Neutral, positive, and negative sentiment tweet counts were plotted in a bar plot (Figure 2).
 Word Clouds were generated for both positive and negative sentiment tweets after removing stop words from both categories (Figure 3,4).(Reference 4)
 
+![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_1.PNG)
+![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_2.PNG)
+![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_3.PNG)
+![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_4.PNG)
+
 Results:
 In this study tweets about COVID19 vaccines showed 37% neutral, 47% positive, and 16% negative sentiments. Word Cloud of the positive tweets show the words ‘safe’, ‘effective’, ‘good’, ‘protect’ whereas that of the negative tweets show the words ‘side effect’, ‘risk’, ‘concern’, ‘GOP’,. Presumably, people with positive sentiment are more optimistic about the benefit of the vaccine whereas people with negative sentiments are concerned about side effects of the vaccine and some political reasons.
 
@@ -27,8 +32,4 @@ References:
 2. https://covid.cdc.gov/covid-data-tracker/#variant-proportions
 3. https://health.ucdavis.edu/coronavirus/covid-19-information/delta-variant.html
 4. https://www.youtube.com/watch?v=ujId4ipkBio&t=226s
-
-
-
-
 
