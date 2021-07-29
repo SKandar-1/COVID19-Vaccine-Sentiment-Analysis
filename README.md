@@ -19,10 +19,10 @@ Subjectivity and polarity was plotted in a scatter plot (Figure 1) using matplot
 Neutral, positive, and negative sentiment tweet counts were plotted in a bar plot (Figure 2).
 Word Clouds were generated for both positive and negative sentiment tweets after removing stop words from both categories (Figure 3,4).(Reference 4)
 
-![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_1.PNG)
-![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_2.PNG)
-![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_3.PNG)
-![](https://github.com/SKandar-1/COVID19-Vaccine-Sentiment-Analysis/blob/main/Covid_Twt_Sent_Fig_4.PNG)
+![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_1.PNG)
+![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_2.PNG)
+![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_3.PNG)
+![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_4.PNG)
 
 __Results:__
 
