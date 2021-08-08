@@ -10,19 +10,30 @@ Delta variant (B.1.617.2. variant) is a SARS-CoV-2 mutation that originally surf
 
 __Methodology:__
 
-Tweets about COVID19 were obtained by querying ‘#COVID19vaccines’ in Twitter’s API using tweepy library. 
-All tweets were saved in a variable using python list-comprehension and a pandas DataFrame was created from the variable.
-DataFrame was cleaned for any hyperlinks and any strings with  #.
-Subjectivity, polarity, followed by sentiments of the tweets were obtained using TextBlob library.
-DataFrame was checked for any duplicates and missing values.
-Subjectivity and polarity was plotted in a scatter plot (Figure 1) using matplotlib and pyplot libraries.
-Neutral, positive, and negative sentiment tweet counts were plotted in a bar plot (Figure 2).
-Word Clouds were generated for both positive and negative sentiment tweets after removing stop words from both categories (Figure 3,4).(Reference 4)
+1. Tweets about COVID19 were obtained by querying ‘#COVID19vaccines’ in Twitter’s API using tweepy library. 
+2. All tweets were saved in a variable using python list-comprehension and a pandas DataFrame was created from the variable.
+3. DataFrame was cleaned for any hyperlinks and any strings with  #.
+4. Subjectivity, polarity, followed by sentiments of the tweets were obtained using TextBlob library.
+5. DataFrame was checked for any duplicates and missing values.
+6. Subjectivity and polarity was plotted in a scatter plot (Figure 1) using matplotlib and pyplot libraries.
+7. Neutral, positive, and negative sentiment tweet counts were plotted in a bar plot (Figure 2).
+8. Word Clouds were generated for both positive and negative sentiment tweets after removing stop words from both categories (Figure 3,4).(Reference 4)
 
-![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_1.PNG)
-![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_2.PNG)
-![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_3.PNG)
-![](https://github.com/SKandar-1/Figures/blob/main/Covid_Twt_Sent_Fig_4.PNG)
+![](https://github.com/SKandar-1/Figures/blob/main/COVID%20Sentiment%20Analysis%20Scalletr%20Plot.png)
+
+__Figure 1:__ COVID Vaccine Sentiment Analysis Scatter Plot
+
+![](https://github.com/SKandar-1/Figures/blob/main/COVID%20Sentiment%20Analysis%20Bar%20Plot.png)
+
+__Figure 2:__ COVID Vaccine Sentiment Analysis Bar Plot
+
+![](https://github.com/SKandar-1/Figures/blob/main/COVID_Vaccine_Pos_entiment_WordCloud.png)
+
+__Figure 3:__ WordCloud for COVID Vaccine Positive Sentiment Tweets
+
+![](https://github.com/SKandar-1/Figures/blob/main/COVID_Vaccine_Neg_entiment_WordCloud.png)
+
+__Figure 4:__ WordCloud for COVID Vaccine Negative Sentiment Tweets
 
 __Results:__
 
